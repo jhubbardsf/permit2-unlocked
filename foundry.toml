@@ -1,5 +1,6 @@
 [profile.default]
-solc = "0.8.17"
+solc = "0.8.29"
+# Works with any solidity 0.8.x version
 bytecode_hash = "none"
 optimizer = true
 via_ir = true

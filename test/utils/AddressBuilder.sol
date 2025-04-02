@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.17;
+pragma solidity ^0.8.29;
 
 library AddressBuilder {
     function fill(uint256 length, address a) external pure returns (address[] memory addresses) {
